@@ -3,16 +3,16 @@
 **BME Mérnökinformatikus Anyagbázis Bot**  
 Discord-alkalmazásazonosító: **1552045664257712288**  
 Verzió: 1.0 – tervezet  
-Hatálybalépés: **[KITÖLTENDŐ: dátum]**
+Hatálybalépés: **2026.09.22**
 
 > Közzététel előtti tervezet. A hiányzó adatkezelői, tárhely- és megőrzési adatokat ki kell tölteni. A megjelölt jogalapokat az üzemeltetőnek a tényleges működésére tekintettel ellenőriznie kell. A jelenlegi szoftver nem végez általános, időalapú adattörlést; ehhez üzemeltetői eljárás szükséges.
 
 ## 1. Ki kezeli az adatokat?
 
-Adatkezelő: **BenceGLG (üzemeltetői név; jogi név: [KITÖLTENDŐ: teljes név vagy szervezet])**  
-Kapcsolattartási cím: **[KITÖLTENDŐ: cím]**  
+Adatkezelő: **BenceGLG (üzemeltetői név; jogi név: Galgovszki Bence)**  
+Kapcsolattartási cím: **bgalgovszki@gmail.com**  
 Adatvédelmi megkeresések: **bgalgovszki@gmail.com**  
-Adatvédelmi tisztviselő, ha kijelölése alkalmazandó: **[KITÖLTENDŐ vagy törlendő]**
+Adatvédelmi tisztviselő, ha kijelölése alkalmazandó: **Galgovszki Bence**
 
 A tájékoztató a botot üzemeltető személy vagy szervezet adatkezeléséről szól. A Discord a saját szolgáltatásában végzett adatkezelését a [Discord adatvédelmi tájékoztatójában](https://discord.com/privacy) ismerteti. A bot nem az egyetem hivatalos szolgáltatása.
 
@@ -56,7 +56,7 @@ További tárhely- vagy technikai szolgáltató: **[KITÖLTENDŐ: szolgáltató 
 
 A bot saját adatai SQLite-adatbázisban, a csatolmányok másolatai pedig az üzemeltető háttértárán találhatók. A Discordon közzétett üzenetek és fájlok emellett a Discord rendszerében is jelen vannak.
 
-A botot futtató gép helye: **Magyarország**. A mentések helye és az esetleges tárhelyszolgáltató: **[KITÖLTENDŐ: mentési ország és szolgáltató; saját gépes üzemeltetés esetén ezt kell jelezni]**. Ha az üzemeltető EGT-n kívüli szolgáltatót vesz igénybe, itt ismertetni kell az érintett továbbítást és az alkalmazott garanciákat: **[KITÖLTENDŐ, vagy a tényleges működés szerint nem alkalmazandó]**. A Discord saját nemzetközi adatkezeléséről annak tájékoztatója ad információt.
+A botot futtató gép helye: **Magyarország**. A mentések helye és az esetleges tárhelyszolgáltató: **LOCALHOST**. Ha az üzemeltető EGT-n kívüli szolgáltatót vesz igénybe, itt ismertetni kell az érintett továbbítást és az alkalmazott garanciákat: --. A Discord saját nemzetközi adatkezeléséről annak tájékoztatója ad információt.
 
 ## 6. Mennyi ideig őrizzük meg?
 
