@@ -3,7 +3,7 @@
 **BME Mérnökinformatikus Anyagbázis Bot**  
 Discord-alkalmazásazonosító: **1552045664257712288**  
 Verzió: 1.0 – tervezet  
-Hatálybalépés: **[KITÖLTENDŐ: dátum]**
+Hatálybalépés: **2026.09.22**
 
 > Közzététel előtti tervezet. Az üzemeltetői és kapcsolattartási adatokat ki kell tölteni, és az itt leírt működést ellenőrizni kell. Ez a megjegyzés a véglegesítés után eltávolítható.
 
@@ -11,8 +11,8 @@ Hatálybalépés: **[KITÖLTENDŐ: dátum]**
 
 A bot közösségi tananyagok rendszerezését, keresését és megosztását, tantárgyi információk kezelését, valamint a Discord-közösség működését segíti.
 
-Üzemeltető: **BenceGLG (üzemeltetői név; jogi név: [KITÖLTENDŐ: teljes név vagy szervezet])**  
-Kapcsolattartási cím: **[KITÖLTENDŐ: elérhetőség / szükséges címadatok]**  
+Üzemeltető: **BenceGLG (üzemeltetői név; jogi név: Galgovszki Bence)**  
+Kapcsolattartási cím: **bgalgovszki@gmail.com**  
 Ügyfélszolgálati, szerzői jogi és adatvédelmi e-mail: **bgalgovszki@gmail.com**
 
 A bot független közösségi kezdeményezés. A névben szereplő BME-megjelölés a célközönséget jelöli; nem jelenti az egyetem, a kar vagy a Discord jóváhagyását, hivatalos támogatását vagy képviseletét.
